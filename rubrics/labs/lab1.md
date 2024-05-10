@@ -27,7 +27,7 @@ Use V=IR to see if their math works.
 - None if obviously the code doesn’t work.
 
 ```10) Paste a link to your video below (make sure the settings are public, so anyone can see it):```
-- Full points if they follow [rubric outlined below]( (next page)
+- Full points if they follow [rubric outlined below](https://github.com/calinschurig/ECEn-240-301-grading/edit/main/rubrics/labs/lab1.md#video-rubric) (next page)
 - 0 points if you can’t see the video. Add the comment:
 - > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
 - -3 points if they resend the video. 
