@@ -1,3 +1,5 @@
+Got to [How to Grade in Learning Suite.md]("/resources/How_to_Grade_in_Learning_Suite.md") to see how to get to the grader and begin grading. 
+
 # Lab 1:
 
 ```4.) What is the relationship between the resistor value you use and how bright the LED shines? What could be the cause of this relationship?```
