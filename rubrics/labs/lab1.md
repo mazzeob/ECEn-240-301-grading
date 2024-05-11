@@ -1,4 +1,4 @@
-Got to [How to Grade in Learning Suite.md]("/resources/How_to_Grade_in_Learning_Suite.md") to see how to get to the grader and begin grading. 
+Got to [How to Grade in Learning Suite.md](/resources/How-to-Grade-in-Learning-Suite.md) to see how to get to the grader and begin grading. 
 
 # Lab 1:
 
