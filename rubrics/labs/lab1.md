@@ -54,6 +54,7 @@ This usually grades automatically, but people often put “nothing” or somethi
 This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
 - -3 points for no name on the breadboard
 - -3 points for not cutting resistors or really sloppy wiring
+  - Warn them for uncut LEDs
 - -3 points if the LED doesn’t blink like a heartbeat
 - -3 points if no talking explanation of how it works
 - -3 points mentioned above for having to request permission for the video. 
