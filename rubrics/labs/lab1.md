@@ -29,9 +29,8 @@ Use V=IR to see if their math works.
 - None if obviously the code doesn’t work.
 
 ```10) Paste a link to your video below (make sure the settings are public, so anyone can see it):```
-- Full points if they follow [rubric outlined below](https://github.com/calinschurig/ECEn-240-301-grading/blob/main/rubrics/labs/lab1.md#video-rubric) (next page)
 - 0 points if you can’t see the video. Add the comment:
-- > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
+  > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
 - -3 points if they resend the video.
 ##### Video Rubric:
 This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
@@ -58,11 +57,3 @@ This video should show that the LED is blinking, the name should be on the bread
 
 This usually grades automatically, but people often put “nothing” or something of the sort. Please check this and make sure it is right.  
 - -1 point if they do not answer it with some real feedback. 
-# Video Rubric:
-This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
-- -3 points for no name on the breadboard
-- -3 points for not cutting resistors or really sloppy wiring
-  - Warn them for uncut LEDs
-- -3 points if the LED doesn’t blink like a heartbeat
-- -3 points if no talking explanation of how it works
-- -3 points mentioned above for having to request permission for the video. 
