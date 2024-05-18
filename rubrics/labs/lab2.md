@@ -27,7 +27,7 @@ Almost everyone chose pull-down.
   > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
   - -3 points if they resend the video.
 ##### Video Rubric:
-- This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
+This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
 - -3 points for no name on the breadboard
 - -3 points for not cutting resistors or not cutting the LEDs. The only jumpers should be the LEDs and buttons.
 - -3 points if their LEDs appear to be flickering
