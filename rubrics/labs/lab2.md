@@ -45,7 +45,7 @@ This video should show that the LED is blinking, the name should be on the bread
 
 ```6) <ECEn 240 only>  Add your lab report here (PDF only).```
 
-For 301: Give them the same points here as you gave them for Question 10.
+For 301: Give them the same points here as you gave them for Question 5.
 
 For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=ef461b1e-VYl2-sVTP-k6w8-Qn4514eda56c)) to assess the quality of the lab report. 
 
