@@ -1,5 +1,7 @@
 Go to [How to Grade in Learning Suite.md](/resources/How-to-Grade-in-Learning-Suite.md) to see how to get to the grader and begin grading. 
 
+Note: "-3" means subtract three points.
+
 # Lab 1:
 
 ```4.) What is the relationship between the resistor value you use and how bright the LED shines? What could be the cause of this relationship?```
