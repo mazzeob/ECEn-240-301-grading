@@ -33,7 +33,10 @@ Use V=IR to see if their math works.
 ```10) Paste a link to your video below (make sure the settings are public, so anyone can see it):```
 - 0 points if you can’t see the video. Add the comment:
   > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
-- -3 points if they resend the video.
+  - -3 points if they resend the video.
+- 0 points if you can't see their name on the breadboard. Add the comment:
+  > Your video does not have a name on the breadboard. Please email me (insert TA email here) with a new link a new video and I will grade it. (With a -3 point deduction).
+  - -3 points if they send a new video, although if the original video would of had a lower score give them that score. 
 ##### Video Rubric:
 This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
 - -3 points for no name on the breadboard
