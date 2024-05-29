@@ -7,5 +7,4 @@
 |Allan Howe|Foote - Miles|ECEn 301-002|
 |Calin Schurig|Nitchman - Wacker|ECEn 301-002|
 
-56 total students, 56 / 6 = 9.33
-9 or 10 students each.
+56 total students, 56 / 6 = 9.33, so 9 or 10 students each.
