@@ -39,11 +39,11 @@ Use V=IR to see if their math works.
   - -3 points if they send a new video, although if the original video would of had a lower score give them that score. 
 ##### Video Rubric:
 This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
-- -3 points for no name on the breadboard
-- -3 points for not cutting resistors or really sloppy wiring
-  - Warn them for uncut LEDs
-- -3 points if the LED doesn’t blink like a heartbeat
-- -3 points if no talking explanation of how it works
+- 0 points for no name on the breadboard (see above).
+- -3 points for not cutting resistors or really sloppy wiring.
+  - Warn them for uncut LEDs.
+- -3 points if the LED doesn’t blink like a heartbeat.
+- -3 points if no talking explanation of how it works.
 - -3 points mentioned above for having to request permission for the video. 
 
 ```11) <ECEn 240 only>  Add your lab report here (PDF only).```
