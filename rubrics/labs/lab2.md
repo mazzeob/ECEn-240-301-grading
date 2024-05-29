@@ -27,12 +27,15 @@ Almost everyone chose pull-down.
 ```5) Paste a link to your video below:```
 - 0 points if you can’t see the video. Add the comment:
   > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
-- -3 points if they resend the video.
+  - -3 points if they resend the video.
+- 0 points if you can't see their name on the breadboard. Add the comment:
+  > Your video does not have a name on the breadboard. Please email me (insert TA email here) with a new link a new video and I will grade it. (With a -3 point deduction).
+  - -3 points if they send a new video, although if the original video would of had a lower score give them that score. 
 ##### Video Rubric:
 This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
-- -3 points for no name on the breadboard
+- 0 points for no name on the breadboard (see above).
 - -3 points for not cutting resistors or not cutting the LEDs. The only jumpers should be the LEDs and buttons.
-- -3 points if their LEDs appear to be flickering
+- -3 points if their LEDs appear to be flickering.
 - -3 points per each of the combinations listed below:
   - Drive left (we’re not enforcing that the left button turns on the left light because the code was not set up to support that, so either works).
   - Drive right 
@@ -42,8 +45,8 @@ This video should show that the LED is blinking, the name should be on the bread
   - Servo down
   - Servo up and down (lights turn off)
   - Servo and driving working together
-- -3 points if no talking explanation (like explaining what buttons they’re pressing)
-- -3 points mentioned above for having to request permission for the video. 
+- -3 points if no talking explanation (like explaining what buttons they’re pressing).
+- -3 points mentioned above for having to request permission for the video.
 
 ```6) <ECEn 240 only>  Add your lab report here (PDF only).```
 
