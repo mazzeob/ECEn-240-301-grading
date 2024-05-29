@@ -1,4 +1,6 @@
-Got to [How to Grade in Learning Suite.md](/resources/How-to-Grade-in-Learning-Suite.md) to see how to get to the grader and begin grading. 
+Go to [How to Grade in Learning Suite.md](/resources/How-to-Grade-in-Learning-Suite.md) to see how to get to the grader and begin grading. 
+
+Note: "-3" means subtract three points.
 
 # Lab 2:
 
