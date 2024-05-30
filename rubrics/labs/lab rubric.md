@@ -1,0 +1,41 @@
+Go to [How to Grade in Learning Suite.md](/resources/How-to-Grade-in-Learning-Suite.md) 
+to see how to get to the grader and begin grading. 
+
+Note: "-3" means subtract three points.
+
+# Lab #:
+
+```#) Paste your Arduino code below:```
+- 0 points if they didn't submit any code. Email or message them requesting it.
+  - -5 points if they send the code. 
+- (lab specific deductions)
+- -10 if the code obviously doesn't work. 
+
+```#) Paste a link to your video below (make sure the settings are public, so anyone can see it):```
+- 0 points if you can’t see the video. Add the comment:
+  > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
+  - -3 points if they resend the video.
+- 0 points if you can't see their name on the breadboard. Add the comment:
+  > Your video does not have a name on the breadboard. Please email me (insert TA email here) with a new link a new video and I will grade it. (With a -3 point deduction).
+  - -3 points if they send a new video, although if the original video would have had a lower score then give them that score. 
+##### Video Rubric:
+This video should show...
+- 0 points for no name on the breadboard (see above).
+- -3 points for not cutting resistors or really sloppy wiring.
+  - Warn them for uncut LEDs.
+- -3 points if the LED doesn’t blink like a heartbeat.
+- -3 points if no talking explanation of how it works.
+- -3 points mentioned above for having to request permission for the video. 
+
+```#) <ECEn 240 only>  Add your lab report here (PDF only).```
+- For 301: Give them the same points here as you gave them for Question 10.
+- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=ef461b1e-VYl2-sVTP-k6w8-Qn4514eda56c)) to assess the quality of the lab report. 
+  - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams.
+  - (listed deductions)
+- Give a warning if they didn’t submit as a pdf or if they submit a .heic picture.
+- -5 if it's not a pdf and it's after the first lab. 
+
+```#) In what ways could this lab be improved? (extra credit)```
+
+This usually grades automatically, but people often put “nothing” or something of the sort. Please check this and make sure it is right.  
+- -1 point if they do not answer it with some real feedback. 
