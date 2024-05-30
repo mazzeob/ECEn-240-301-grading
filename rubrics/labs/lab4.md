@@ -20,6 +20,7 @@ Full points if they follow rubric outlined below (next page)
 Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
 -3 points if they resend the video. 
 6. <240 Only>. Upload your lab report here (PDF only!). (30 points)
+# Remember to use the slide rubric as well.
 For 301: Give them the same points here as you gave them for Question 5.
 For 240: Use the rubric on Learning Suite to assess the quality of the lab report. 
 Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams. 
