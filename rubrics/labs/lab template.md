@@ -8,7 +8,7 @@ Note: "-3" means subtract three points.
 ```#) Paste your Arduino code below:```
 - 0 points if they didn't submit any code. Email or message them requesting it.
   - -5 points if they send the code. 
-- (lab specific deductions)
+- (Lab specific deductions.)
 - -10 if the code obviously doesn't work. 
 
 ```#) Paste a link to your video below (make sure the settings are public, so anyone can see it):```
@@ -22,9 +22,7 @@ Note: "-3" means subtract three points.
 ##### Video Rubric:
 This video should show...
 - 0 points for no name on the breadboard (see above).
-- -3 points for not cutting resistors or really sloppy wiring.
-  - Warn them for uncut LEDs.
-- -3 points if the LED doesn’t blink like a heartbeat.
+- (Lab specific deductions.)
 - -3 points if no talking explanation of how it works.
 - -3 points mentioned above for having to request permission for the video. 
 
