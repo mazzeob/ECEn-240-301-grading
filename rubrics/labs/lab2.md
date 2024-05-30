@@ -21,6 +21,8 @@ Almost everyone chose pull-down.
   - Our action / planning FSMs use states provided by previous FSMs, i.e. one FSM's output is the next one's input. 
 
 ```4) Paste your Arduino code below: (25 points)```
+- 0 points if they didn't submit any code. Email or message them requesting it.
+  - -5 points if they send the code. 
 - -5 points if ActionRobotDrive = DRIVE_STOP isn’t implemented.
 - -10 points if the code obviously doesn’t work.
 
