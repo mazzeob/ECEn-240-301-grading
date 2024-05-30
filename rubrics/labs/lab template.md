@@ -17,7 +17,8 @@ Note: "-3" means subtract three points.
   - -3 points if they resend the video.
 - 0 points if you can't see their name on the breadboard. Add the comment:
   > Your video does not have a name on the breadboard. Please email me (insert TA email here) with a new link a new video and I will grade it. (With a -3 point deduction).
-  - -3 points if they send a new video, although if the original video would have had a lower score then give them that score. 
+  - -3 points if they send a new video, although if the original video would have had a lower score then give them that score.
+- If their video is sus (you're not sure it's their own work) then ask the grading TA what to do. 
 ##### Video Rubric:
 This video should show...
 - 0 points for no name on the breadboard (see above).
