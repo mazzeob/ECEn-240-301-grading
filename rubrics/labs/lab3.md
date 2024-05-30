@@ -17,14 +17,15 @@ Say something about breaking the Arduino, frying the pin, or the computer.
 ```5. Why is it important that the H-bridge heatsink be unobstructed? (3 points)```
 
 They need to say something about it overheating or being damaged.
-- -3 if they obviously don’t know what a h-bridge is.
+- -3 if they obviously don’t know what an H-bridge is.
 
 ```6. Upload your robot computer code here. (25 points)```
 - 0 if they don't submit any code. Send them an email or message requesting it.
   - -5 if they send the code. 
-- -5 if they didn’t change the LED 2s and 4s to ENABLE A and B
+- -5 if they didn’t change the LED_2s and LED_4s to ENABLE A and B. (Most students used H_BRIDGE_ENA and H_BRIDGE_ENB)
+  - (Note) Still give them the points if they use a different variable name that shows they aren't using LEDs anymore. 
 - -10 points if the code obviously doesn’t work.
-- <240 only> -5 if no battery monitor 
+- <240 only> -5 if no battery monitor .
 
 (NOTE) If their code isn’t the skeleton code, still give points if it appears that the code functions. 
 Just leave a note that we strongly suggest that they use the skeleton code.
