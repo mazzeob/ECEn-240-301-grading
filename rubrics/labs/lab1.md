@@ -26,6 +26,8 @@ Use V=IR to see if their math works.
 - Full points if they uploaded a picture and the board is soldered.
 
 ```9) Paste your Arduino code below:```
+- 0 points if they didn't submit any code. Email or message them requesting it.
+  - -5 points if they send the code. 
 - Full points if it is the code that would blink a light like a heartbeat.
 - Half points if it is the code that would blink a light steadily.
 - None if obviously the code doesn’t work.
