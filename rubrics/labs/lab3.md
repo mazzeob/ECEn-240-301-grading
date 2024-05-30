@@ -20,9 +20,11 @@ They need to say something about it overheating or being damaged.
 - -3 if they obviously don’t know what a h-bridge is.
 
 ```6. Upload your robot computer code here. (25 points)```
-- -5 if no battery monitor (240)
+- 0 if they don't submit any code. Send them an email or message requesting it.
+  - -5 if they send the code. 
 - -5 if they didn’t change the LED 2s and 4s to ENABLE A and B
 - -10 points if the code obviously doesn’t work.
+- <240 only> -5 if no battery monitor 
 
 (NOTE) If their code isn’t the skeleton code, still give points if it appears that the code functions. 
 Just leave a note that we strongly suggest that they use the skeleton code.
