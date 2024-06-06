@@ -11,7 +11,7 @@ Note: "-3" means subtract three points.
 
 ```3. Paste the Arduino code for Milestone 1. (240 should include code used for measuring the capacitance) (10 points)```
 - (240) -5 if no code for measuring capacitance 
-- -3 if the code has the wrong calculation for tau.
+- (240) -3 if the code has the wrong calculation for tau.
   > float tau = measuredTime/(log((1-beta)/beta));
 - -10 points if they didn’t include any code
 - -5 if it’s not the separate sketch. We want them to realize they were supposed to use that code we gave them.
