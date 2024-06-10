@@ -28,7 +28,7 @@ This video should show...
 
 ```#) <ECEn 240 only>  Add your lab report here (PDF only).```
 - For 301: Give them the same points here as you gave them for Question 10.
-- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=ef461b1e-VYl2-sVTP-k6w8-Qn4514eda56c)) to assess the quality of the lab report. 
+- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report. 
   - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams.
   - (listed deductions)
 - Give a warning if they didn’t submit as a pdf or if they submit a .heic picture.
