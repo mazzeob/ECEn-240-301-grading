@@ -15,7 +15,7 @@ Note: "-3" means subtract three points.
 - -5 if they aren't implementing isLight().
 - -10 if the code obviously doesn't work. 
 
-```3) Paste a link to your video below: (35 points)```
+```2) Paste a link to your video below: (35 points)```
 - 0 points if you can’t see the video. Add the comment:
   > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
   - -3 points if they resend the video.
