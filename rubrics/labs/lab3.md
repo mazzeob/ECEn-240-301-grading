@@ -51,18 +51,17 @@ This video should show the name on the breadboard.
   (Some students ran their power supply through the h-bridge, which may make the LED’s dimmer. It just has to clearly show switching up and down with the power supply.
 
 ```8. <240 Only>. Upload your lab report here (PDF only!).```
+- For 301: Give them the same points here as you gave them for Question 10.
+- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report. 
 
-For 301: Give them the same points here as you gave them for Question 10.
 
-For 240: Use the rubric on Learning Suite to assess the quality of the lab report. 
-
-- Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams. 
-- -3 if no picture of completed robot
-- -3 if no Thevenin and Norton equivalent values (voltage and resistance, and current) for 9V Battery (can be pictures or just measurements)
-- -3 if no Thevenin equivalent values of two 9 volt batteries in Series and Parallel  (can be pictures or just measurements)
-- -3 if no description/figure/table of measurements characterizing your battery monitor
-- -3 if no average voltage and current through the motor while running (I think this is usually in the 100-200 mA range) (if neither just take off 3 still)
-- -3 if no battery power calculation (the one using the spreadsheet) and it changed values after it opened, so we’re not grading the value of power they get, just that they did it)
+  - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams. 
+  - -3 if no picture of completed robot
+  - -3 if no Thevenin and Norton equivalent values (voltage and resistance, and current) for 9V Battery (can be pictures or just measurements)
+  - -3 if no Thevenin equivalent values of two 9 volt batteries in Series and Parallel  (can be pictures or just measurements)
+  - -3 if no description/figure/table of measurements characterizing your battery monitor
+  - -3 if no average voltage and current through the motor while running (I think this is usually in the 100-200 mA range) (if neither just take off 3 still)
+  - -3 if no battery power calculation (the one using the spreadsheet) and it changed values after it opened, so we’re not grading the value of power they get, just that they did it)
 - -3 if not professional (this has to be really bad to take this off).
 - -3 if not a PDF
 
