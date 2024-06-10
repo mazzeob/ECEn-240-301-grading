@@ -48,7 +48,7 @@ This video should show the robot running with the capacitive touch sensor cyclin
 
 ```6) <ECEn 240 only>  Add your lab report here (PDF only).```
 - For 301: Give them the same points here as you gave them for Question 5.
-- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=ef461b1e-VYl2-sVTP-k6w8-Qn4514eda56c)) to assess the quality of the lab report, as well as the [Lab 4 Report Rubric](https://docs.google.com/presentation/d/1xN_O-1M9sasXvIK402ySojOtNx08k_mZRGd25UIuRvo/edit?subsessionID=TzGi#slide=id.g2e0e03d7963_10_0).
+- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report, as well as the [Lab 4 Report Rubric](https://docs.google.com/presentation/d/1xN_O-1M9sasXvIK402ySojOtNx08k_mZRGd25UIuRvo/edit?subsessionID=TzGi#slide=id.g2e0e03d7963_10_0).
   - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams.
 - -3 if no graphs of different tau values getting plotted. 
 - -3 if no description of how the different resistors and capacitors change the graphs.
