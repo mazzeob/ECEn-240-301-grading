@@ -40,7 +40,7 @@ This video should show their robot with motors and photodiodes, with the servo L
 - For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report. 
   - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams.
   - -2 for each item missing from the [list on the slides](https://docs.google.com/presentation/d/1wSx2OFlLH3TO9DeCfRdZftI9dApcQ05J3uZ1rJw_IPI/edit?subsessionID=6WFL#slide=id.g11c1269870d_0_7712). 
-- -5 if it's not a pdf and it's after the first lab. 
+- -3 if it's not a pdf. 
 
 ```#) In what ways could this lab be improved? (extra credit)```
 
