@@ -9,7 +9,7 @@ Note: "-3" means subtract three points.
 
 # Lab 5:
 
-```1) Paste your Arduino code below:```
+```1) Paste your Arduino code below: (30 points)```
 - 0 points if they didn't submit any code. Email or message them requesting it.
   - -5 points if they send the code. 
 - -5 if they aren't implementing isLight().
