@@ -5,4 +5,4 @@ Grading rubrics can be found in [rubrics/labs](/rubrics/labs), and some resource
 
 If you have any suggestions, please either let me know or submit a pull request. If TAs from future semesters are viewing this, feel free to fork this and use it, as well.
 
-Credit to Anna Holm for most of the rubrics and resources. I just gathered it all onto github and made some minor edits.  
+Credit to Anna Holm for most of the rubrics and resources. Calin Schurig just gathered it all onto github and made some minor edits.  
