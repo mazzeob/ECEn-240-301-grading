@@ -5,11 +5,11 @@ Note: "-3" means subtract three points.
 
 # Lab 4:
 
-```1. What is the effect of different values of resistor: 1M, 10M, 100M.  Why do you observe this phenomenon? (5 points)```
+```1) What is the effect of different values of resistor: 1M, 10M, 100M.  Why do you observe this phenomenon? (5 points)```
 - -2 if they don’t say that it increases the sensitivity.
 - -2 if they don’t have some explanation for why. Usually includes a mention of tau and how that changes things. (But it’s a harder question, so be lenient).
 
-```3. Paste the Arduino code for Milestone 1. (240 should include code used for measuring the capacitance) (10 points)```
+```3) Paste the Arduino code for Milestone 1. (240 should include code used for measuring the capacitance) (10 points)```
 - (240) -5 if no code for measuring capacitance 
 - (240) -3 if the code has the wrong calculation for tau.
   > float tau = measuredTime/(log((1-beta)/beta));
@@ -18,14 +18,14 @@ Note: "-3" means subtract three points.
 
   (A lot of 240 kids have only submitted the one capacitance code, and not the little sketch that everyone does. Give them credit anyway because it is a little confusing).
  
-```4. Paste your Arduino code for Milestone 2 (20 points)```
+```4) Paste your Arduino code for Milestone 2 (20 points)```
 - 0 points if they didn't submit any code. Email or message them requesting it.
   - -5 points if they send the code. 
 - -3 if their tau threshold is 25. That means they didn’t change it.
 - -5 if the capacitive sensor isn’t implemented correctly (i.e. not using analogWrite or something crazy)
 - -10 if the code obviously doesn’t work
 
-```5. Paste a link to your video below: (30 points)```
+```5) Paste a link to your video below: (30 points)```
 - 0 points if you can’t see the video. Add the comment:
   > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
   - -3 points if they resend the video.
