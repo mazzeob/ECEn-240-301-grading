@@ -4,7 +4,7 @@ Note: "-3" means subtract three points.
 
 # Lab 2:
 
-```1.) For your push button, did you use a pull-up or a pull-down resistor? Why did you choose this configuration, and what does it accomplish (i.e. what happens without it)? (5 points)```
+```1) For your push button, did you use a pull-up or a pull-down resistor? Why did you choose this configuration, and what does it accomplish (i.e. what happens without it)? (5 points)```
 
 Almost everyone chose pull-down.
 - -2 points if they don’t correctly identify what their choice does. (e.g. saying they chose pull-up but their description of how it works is a pull down).
