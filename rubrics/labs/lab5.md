@@ -42,7 +42,7 @@ This video should show their robot with motors and photodiodes, with the servo L
   - -2 for each item missing from the [list on the slides](https://docs.google.com/presentation/d/1wSx2OFlLH3TO9DeCfRdZftI9dApcQ05J3uZ1rJw_IPI/edit?subsessionID=6WFL#slide=id.g11c1269870d_0_7712). 
 - -3 if it's not a pdf. 
 
-```#) In what ways could this lab be improved? (extra credit)```
+```4) In what ways could this lab be improved? (extra credit)```
 
 This usually grades automatically, but people often put “nothing” or something of the sort. Please check this and make sure it is right.  
 - -1 point if they do not answer it with some real feedback. 
