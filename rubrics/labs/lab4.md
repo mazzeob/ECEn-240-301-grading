@@ -50,13 +50,7 @@ This video should show the robot running with the capacitive touch sensor cyclin
 - For 301: Give them the same points here as you gave them for Question 5.
 - For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report, as well as the [Lab 4 Report Rubric](https://docs.google.com/presentation/d/1xN_O-1M9sasXvIK402ySojOtNx08k_mZRGd25UIuRvo/edit?subsessionID=TzGi#slide=id.g2e0e03d7963_10_0).
   - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams.
-- -3 if no graphs of different tau values getting plotted. 
-- -3 if no description of how the different resistors and capacitors change the graphs.
-- -3 if no mention of the smallest capacitance their code can measure. 
-- -3 if no pictures with explanations of the oscilloscope of the different pulse width of the motors. (the 100% often shows up as a straight line)
-- -3 if the scope plots don’t have the duty cycle measurement on them.
-- -3 if not professional (this has to be really bad to take this off).
-- -3 if no introduction or conclusion.
+  - -5 for each item missing from the [list on the slides](https://docs.google.com/presentation/d/1xN_O-1M9sasXvIK402ySojOtNx08k_mZRGd25UIuRvo/edit?subsessionID=zsE5#slide=id.g2e0e03d7963_10_0). TODO: update slide to include specifc ecen240 questions. [Slide 18](https://docs.google.com/presentation/d/1xN_O-1M9sasXvIK402ySojOtNx08k_mZRGd25UIuRvo/edit?subsessionID=zsE5#slide=id.gefb2b78b91_34_0) has the 240 question paraphrased "What is the smallest capacitance your code can measure?"
 - -3 if not a PDF. 
 
 ```7) In what ways could this lab be improved? (extra credit)```
