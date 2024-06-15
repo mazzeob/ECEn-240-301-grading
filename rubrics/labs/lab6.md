@@ -43,7 +43,7 @@ This video should show a fully functional light-following robot that demonstrate
   - -3 for each item missing from the [list on the slides](https://docs.google.com/presentation/d/179IEi2TGgbwu7aiGNaS6mono3YWzSwouteQAAfrAf-4/edit#slide=id.g2e4be138e76_44_0). Some bullets include multiple items, like the 5 oscope PWM measurements. 
 - -3 if it's not a pdf and it's after the first lab. 
 
-```#) In what ways could this lab be improved? (extra credit)```
+```4) In what ways could this lab be improved? (extra credit)```
 
 This usually grades automatically, but people often put “nothing” or something of the sort. Please check this and make sure it is right.  
 - -1 point if they do not answer it with some real feedback. 
