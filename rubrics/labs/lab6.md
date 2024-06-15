@@ -3,7 +3,7 @@ to see how to get to the grader and begin grading.
 
 Note: "-3" means subtract three points.
 
-# Lab #:
+# Lab 6:
 
 ```1) Paste your Arduino code below:```
 - 0 points if they didn't submit any code. Email or message them requesting it.
