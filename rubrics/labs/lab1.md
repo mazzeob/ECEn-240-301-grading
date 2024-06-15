@@ -4,15 +4,15 @@ Note: "-3" means subtract three points.
 
 # Lab 1:
 
-```4.) What is the relationship between the resistor value you use and how bright the LED shines? What could be the cause of this relationship?```
+```4) What is the relationship between the resistor value you use and how bright the LED shines? What could be the cause of this relationship?```
 
 The greater the resistance, the lower the current because of Ohm’s Law V=IR
 - -1.5 points if they don’t mention Ohm’s law, either the equation, description, or by name. Mentioning Ohm's law includes talking about how changing current impacting the LEDs brightness. 
 - -3 points if it’s just wrong
 
-```5.) What resistor did you use in your circuit? (Units of Ω)```
+```5) What resistor did you use in your circuit? (Units of Ω)```
 
-```6.) What voltage do you measure across your resistor using the multimeter? (Units of V)```
+```6) What voltage do you measure across your resistor using the multimeter? (Units of V)```
 
 - -1.5 if their voltage doesn’t seem right.
 
