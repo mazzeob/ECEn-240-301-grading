@@ -53,16 +53,8 @@ This video should show the name on the breadboard.
 ```8. <240 Only>. Upload your lab report here (PDF only!).```
 - For 301: Give them the same points here as you gave them for Question 10.
 - For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report. 
-
-
   - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams. 
-  - -3 if no picture of completed robot
-  - -3 if no Thevenin and Norton equivalent values (voltage and resistance, and current) for 9V Battery (can be pictures or just measurements)
-  - -3 if no Thevenin equivalent values of two 9 volt batteries in Series and Parallel  (can be pictures or just measurements)
-  - -3 if no description/figure/table of measurements characterizing your battery monitor
-  - -3 if no average voltage and current through the motor while running (I think this is usually in the 100-200 mA range) (if neither just take off 3 still)
-  - -3 if no battery power calculation (the one using the spreadsheet) and it changed values after it opened, so we’re not grading the value of power they get, just that they did it)
-- -3 if not professional (this has to be really bad to take this off).
+  - -3 for each item missing from the [list on the slides](https://docs.google.com/presentation/d/1bRNqjw3a6zD_Y3cUu_lPnDKNUE5umjfIw2C8jvXlpt0/edit#slide=id.g2dfa256ad93_13_0). (These are the content points from the rubric). 
 - -3 if not a PDF
 
 ```9. In what ways could this lab be improved?```
