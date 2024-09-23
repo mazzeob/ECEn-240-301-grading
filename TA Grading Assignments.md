@@ -1,10 +1,18 @@
 | TA | Last Name | Section |
 |----|-----------|:--------|
-|Rodrigo Cahuana Chuquimia|Bawden - Harker|ECEn 240-001|
-|Samuel Craven|Hendrickson - Nielson|ECEn 240-001|
-|Sam Erickson|Page - Zaugg|ECEn 240-001|
-|Abish George|Badillo - Fernandez|ECEn 301-002|
-|Allan Howe|Foote - Miles|ECEn 301-002|
-|Calin Schurig|Nitchman - Wacker|ECEn 301-002|
+|Sam Renolds|Amarsanaa - Kartchner|ECEn 240 Section 1|
+|Austin Bee|Kim - Yancey|ECEn 240 Section 1|
+|Austin Bee|Adams - Black|ECEn 301 Section 2|
+|Seth Knoop|Bradshaw - Gleason|ECEn 301 Section 2|
+|Zack Cluff|Gomez Avila - Gleason|ECEn 301 Section 2|
+|Calin Schurig|Nobrega - Tarbet|ECEn 301 Section 2|
+|Abish Lemus|Wester - Wooton|ECEn 301 Section 2|
+|Abish Lemus|Adams - Freeman|ECEn 301 Section 3|
+|Jamil Khalaf|Gardner - Stacey|ECEn 301 Section 3|
+|Ziyuan Guo|Stutzman - Young|ECEn 301 Section 3|
+|Ziyuan Guo|Ackerson - Belliston|Ecen 301 Section 4|
+|Bradford Bawden|Birth - Hays|ECEn 301 Section 4|
+|Robert Harper|Heiner - Quinn|ECEn 301 Section 4|
+|Joshua Gillis|Robison = Wright|ECEn 301 Section 4|
 
-56 total students, 56 / 6 = 9.33, so 9 or 10 students each.
+
