@@ -13,6 +13,6 @@
 |Ziyuan Guo|Ackerson - Belliston|Ecen 301 Section 4|
 |Bradford Bawden|Birth - Hays|ECEn 301 Section 4|
 |Robert Harper|Heiner - Quinn|ECEn 301 Section 4|
-|Joshua Gillis|Robison = Wright|ECEn 301 Section 4|
+|Joshua Gillis|Robison - Wright|ECEn 301 Section 4|
 
 
