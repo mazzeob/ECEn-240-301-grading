@@ -37,7 +37,7 @@ This video should show their robot with motors and photodiodes, with the servo L
 
 ```3) <ECEn 240 only>  Add your lab report here (PDF only!). (35 points)```
 - For 301: Give them the same points here as you gave them for Question 2.
-- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report. 
+- For 240: Use this rubric: ([view](https://github.com/mazzeob/ECEn-240-301-grading/blob/03862e905b21ec297db446267fca538f2a583fff/resources/Grading%20rubric%20for%20lab%20report%20in%20ECEn%20240.pdf)) to assess the quality of the lab report. 
   - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams.
   - -2 for each item missing from the [list on the slides](https://docs.google.com/presentation/d/1wSx2OFlLH3TO9DeCfRdZftI9dApcQ05J3uZ1rJw_IPI/edit?subsessionID=6WFL#slide=id.g11c1269870d_0_7712). 
 - -3 if it's not a pdf. 
