@@ -52,7 +52,7 @@ This video should show the name on the breadboard.
 
 ```8) <240 Only>. Upload your lab report here (PDF only!).```
 - For 301: Give them the same points here as you gave them for Question 10.
-- For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report. 
+- For 240: Use this rubric: ([view](https://github.com/mazzeob/ECEn-240-301-grading/blob/03862e905b21ec297db446267fca538f2a583fff/resources/Grading%20rubric%20for%20lab%20report%20in%20ECEn%20240.pdf)) to assess the quality of the lab report. 
   - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams. 
   - -3 for each item missing from the [list on the slides](https://docs.google.com/presentation/d/1bRNqjw3a6zD_Y3cUu_lPnDKNUE5umjfIw2C8jvXlpt0/edit#slide=id.g2dfa256ad93_13_0). (These are the content points from the rubric). 
 - -3 if not a PDF
