@@ -42,7 +42,8 @@ Use V=IR to see if their math works.
 ##### Video Rubric:
 This video should show that the LED is blinking, the name should be on the breadboard, and the wires (like the ground connection, etc.) and resistors must be cut.
 - 0 points for no name on the breadboard (see above). 
-- WARN them for not cutting resistors, uncut LEDs, uncut ground/positive, or really sloppy wiring. 
+- WARN them for not cutting resistors, uncut LEDs, or really sloppy wiring.
+- -3 points for uncut ground. 
 - -3 points if the LED doesn’t blink like a heartbeat. 
 - -3 points if no talking explanation of how it works. 
 - -3 points mentioned above for having to request permission for the video. 
