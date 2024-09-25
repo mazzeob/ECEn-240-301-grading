@@ -52,21 +52,18 @@ This video should show that the LED is blinking, the name should be on the bread
 
 ```6) <ECEn 240 only>  Add your lab report here (PDF only).```
 
-For 301: Give them the same points here as you gave them for Question 5.
-
-For 240: Use the rubric on [Learning Suite](https://learningsuite.byu.edu/.YoSI/cid-d8RgIfkKFPjI/student/pages/page/id-vIiK) ([download](https://learningsuite.byu.edu/plugins/Upload/fileDownload.php?fileId=f7dfd05e-fpKi-a1kw-5SBC-52ec5754a070)) to assess the quality of the lab report. 
-
-Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams. 
-- -3 if they don’t explain how the robot “brain” divides out perception, planning, and action.
-- -3 if they don’t describe the purpose of the ‘pull down and ‘pull up’ resistors’
-- -3 if no oscope measurements of the rise times and fall times.
-- -3 if the oscope plots were not taken via USB.
-- -3 if they don’t describe how they used debugging tools to aid development (like the debugger, or multimeters and oscopes)
-- -3 if no screenshots of the serial plotter with the 5 volts and the 3.3 volts.
-- -3 if no description in words each of the FSMs.
-- -3 if no diagram of the servo FSM.
-- -3 if no conclusion or introduction.
-- -3 if not professional (this has to be really bad to take this off).
+- For 301: Give them the same points here as you gave them for Question 5.
+- For 240: Use this rubric: ([view](https://github.com/mazzeob/ECEn-240-301-grading/blob/03862e905b21ec297db446267fca538f2a583fff/resources/Grading%20rubric%20for%20lab%20report%20in%20ECEn%20240.pdf)) to assess the quality of the lab report.
+  - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams.
+  - -3 if they don’t explain how the robot “brain” divides out perception, planning, and action.
+  - -3 if they don’t describe the purpose of the ‘pull down and ‘pull up’ resistors’
+  - -3 if no oscope measurements of the rise times and fall times.
+  - -3 if the oscope plots were not taken via USB.
+  - -3 if they don’t describe how they used debugging tools to aid development (like the debugger, or multimeters and oscopes)
+  - -3 if no screenshots of the serial plotter with the 5 volts and the 3.3 volts.
+  - -3 if no description in words each of the FSMs.
+  - -3 if no diagram of the servo FSM.
+  - -3 if not professional (this has to be really bad to take this off).
 - -5 if not a PDF
 
 ```7) In what ways could this lab be improved? (extra credit)```
