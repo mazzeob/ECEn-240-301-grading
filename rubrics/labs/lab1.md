@@ -50,6 +50,7 @@ This video should show that the LED is blinking, the name should be on the bread
 
 ```11) <ECEn 240 only>  Add your lab report here (PDF only).```
 - For 301: Give them the same points here as you gave them for Question 10.
+  - Comment that they get the same points as in question 10, otherwise you'll get emails asking why. 
 - For 240: Use this rubric: ([view](https://github.com/mazzeob/ECEn-240-301-grading/blob/03862e905b21ec297db446267fca538f2a583fff/resources/Grading%20rubric%20for%20lab%20report%20in%20ECEn%20240.pdf)) to assess the quality of the lab report. 
 - - Note: Most 240 lab reports should get full points as long as they put in effort, it looks professional, and they included most of or all the diagrams. 
 - -3 if not o-scope plot of the rise time (or isn’t actually measuring anything)
