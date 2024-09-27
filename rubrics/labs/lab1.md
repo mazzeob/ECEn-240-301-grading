@@ -33,7 +33,7 @@ Use V=IR to see if their math works.
 - None if obviously the code doesn’t work.
 
 ```10) Paste a link to your video below (make sure the settings are public, so anyone can see it):```
-- 0 points if you can’t see the video. Add the comment:
+- 0 points if you can’t see the video. __YOU NEED TO LEAVE THEM YOUR EMAIL SO THEY CAN CONTACT YOU WITH A NEW VIDEO LINK__. Add the comment:
   > Your video is not public. Please email me (insert TA email here) with a new link to the video and I will grade it. (With a -3 point deduction).
   - -3 points if they resend the video.
 - 0 points if you can't see their name on the breadboard. Add the comment:
