@@ -1,10 +1,10 @@
 | TA | Last Name | Section |
 |----|-----------|:--------|
 |Sam Renolds|Amarsanaa - Kartchner|ECEn 240 Section 1|
-|Austin Bee|Kim - Yancey|ECEn 240 Section 1|
-|Austin Bee|Adams - Black|ECEn 301 Section 2|
-|Seth Knoop|Bradshaw - Gleason|ECEn 301 Section 2|
-|Zack Cluff|Gomez Avila - Gleason|ECEn 301 Section 2|
+|Seth Knoop|Kim - Yancey|ECEn 240 Section 1|
+|Seth Knoop|Adams - Black|ECEn 301 Section 2|
+|Austin Bee|Bradshaw - Gleason|ECEn 301 Section 2|
+|Zack Cluff|Gomez Avila - Nichol|ECEn 301 Section 2|
 |Calin Schurig|Nobrega - Tarbet|ECEn 301 Section 2|
 |Abish Lemus|Wester - Wooton|ECEn 301 Section 2|
 |Abish Lemus|Adams - Freeman|ECEn 301 Section 3|
@@ -14,5 +14,7 @@
 |Bradford Bawden|Birth - Hays|ECEn 301 Section 4|
 |Robert Harper|Heiner - Quinn|ECEn 301 Section 4|
 |Joshua Gillis|Robison - Wright|ECEn 301 Section 4|
+
+
 
 
