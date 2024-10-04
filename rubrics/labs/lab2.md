@@ -15,7 +15,7 @@ Almost everyone chose pull-down.
 - -2.5 points if they don’t say something like “they’re completely separate state machines”.
 
 ```3) How have you implemented dependency of one state machine on another in your implementation? (5 points)```
-- -2.5 if they don’t get one of these answers:
+- -2.5 if they don’t get any one of these answers:
   - The steering FSM is dependent on the collision (e.g. the ActionRobotDrive = DRIVE_STOP)
   - We call fsmSteerRobot() in the collision FSM.
   - Our action / planning FSMs use states provided by previous FSMs, i.e. one FSM's output is the next one's input. 
