@@ -24,6 +24,7 @@ Use V=IR to see if their math works.
 ```8) Upload a photo of the soldered Arduino board.```
 
 - Full points if they uploaded a picture and the board is soldered.
+    - -4 points if it's an HEIC picutre. 
 
 ```9) Paste your Arduino code below:```
 - 0 points if they didn't submit any code. Email or message them requesting it.
